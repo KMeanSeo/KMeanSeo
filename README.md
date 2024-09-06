@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm KMeanSeo 
   <a href="https://github.com/KMeanSeo" target="blank">
-    <img src="https://img.shields.io/github/followers/KMeanSeo?label=Follow&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/KMeanSeo?label=Follow" alt="GitHub Followers" />
   </a>
 </h1>
 
