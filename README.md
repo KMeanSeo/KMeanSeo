@@ -13,7 +13,7 @@
 ---
 
 ### 📫 How to reach me:
-- Email: [mskim8055@gachon.ac.kr](mailto:mskim8055@gmail.com)
+- Email: [mskim8055@gmail.com](mailto:mskim8055@gmail.com)
 
 ---
 
