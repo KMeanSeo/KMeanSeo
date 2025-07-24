@@ -27,5 +27,5 @@
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" height="40"/> <img src="https://img.shields.io/badge/MQTT-FF8200?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" alt="Notion" width="40" height="40"/> </p>
 
 ---
-📜 Certifications<br><br>
+📜 Certifications<br>
 <p align="left">리눅스마스터 2급</p>
